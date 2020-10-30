@@ -1,4 +1,6 @@
-**Some discuss http://www.opengd77.com/viewtopic.php?t=356
+# Some discuss   
+http://www.opengd77.com/viewtopic.php?t=356  
+https://forum.m17project.org/showthread.php?tid=5&pid=103  
 
 # TR-9
 **Read ERRATA.txt before building the mainboard!**  
