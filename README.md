@@ -1,3 +1,5 @@
+**Some discuss http://www.opengd77.com/viewtopic.php?t=356
+
 # TR-9
 **Read ERRATA.txt before building the mainboard!**  
 TR-9 is a handheld transceiver (HT) for the M17 standard. Its specification can be found [here](https://github.com/sp5wwp/M17_spec).
